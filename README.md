@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm inzilobpi</h1>
 <h3 align="center">A passionate web developer from Nigeria.</h3>
 
-- 🔭 I’m currently working on **Building an e-commerce website**
+- 🔭 I’m currently working on **E-commerce website**
 
 - 🌱 I’m currently learning **Javascript**
 
